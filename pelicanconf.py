@@ -47,7 +47,7 @@ HEADER = "theme/images/logo-2-lines-200.png"
 DEFAULT_PAGINATION = 10
 
 # Themes
-THEME = '../pelican-themes/pelican-bootstrap3'
+THEME = 'theme'
 # BOOTSTRAP_THEME = 'united'
 
 # Uncomment following line if you want document-relative URLs when developing
