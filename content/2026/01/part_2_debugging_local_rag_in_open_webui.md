@@ -1,10 +1,10 @@
 Title: Building a Local AI Lab for Cybersecurity Research (Part 2)
-Date: 2026-01-26 00:00
+Date: 2026-02-09 00:00
 Category: AI
 Tags: ai, environment
 Authors: easydevmixin
 Summary: Create a local environment to run your own AI - part 2
-Status: hidden
+Status: published
 
 
 # Debugging Local RAG in Open WebUI: A Hybrid Search Investigation (Part 2)
